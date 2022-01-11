@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到 GitHub 页面
 
 You can use the [editor on GitHub](https://github.com/aexftf/aexftf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+每当您提交到此存储库时，GitHub Pages 将运行[Jekyll] ( https://jekyllrb.com/ ) 从您的 Markdown 文件中的内容重建您站点中的页面。
+关于我
 
 
 
@@ -11,31 +11,37 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-0
-```markdown
-语法高亮代码块0
 
-# 标题![星辰 1920x1080](https://user-images.githubusercontent.com/72287287/148990187-76021a1a-4397-4a87-bcb6-ed2d43a3960f.jpg)
- 1 
-   G工作经历
+#工作经验  
+            
+   
+ 
 
 
-
-          
-## Header 2
-### 标题l3；l/。
-。。
-- 子弹头
-- Lis
+             
+#项目经历
 
 
 
 
 
 
-1. Numbered
-2. List
+
+
+
+
+
+
+
+### 标题
+
+
+
+
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
