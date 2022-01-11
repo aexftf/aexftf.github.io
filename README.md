@@ -7,24 +7,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-这个东西可以当成简历用途
-
-
-
 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+0
 ```markdown
-Syntax highlighted code block
+语法高亮代码块0
 
-# Header 1
+# 标题![星辰 1920x1080](https://user-images.githubusercontent.com/72287287/148990187-76021a1a-4397-4a87-bcb6-ed2d43a3960f.jpg)
+ 1 
+   G工作经历
+
+
+
+          
 ## Header 2
-### Header 3
-
-- Bulleted
+### 标题l3；l/。
+。。
+- 子弹头
 - Lis
 
 
